@@ -1,0 +1,49 @@
+body{
+    background:linear-gradient(120deg,rgb(248, 170, 183),rgb(253, 213, 219));
+    font-family: sans-serif;
+
+}
+h4{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(247, 121, 140);
+
+}
+#container{
+    
+    width: 30%; 
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid palevioletred;
+    background-color:rgb(251, 233, 236);
+    text-align: center;
+}
+label{
+    display:flex;
+    justify-content: left;
+    
+    color: rgb(247, 121, 140);
+}
+input{
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    color: (247, 121, 140);
+    font: bold;
+    color: rgb(247, 111, 131);
+    
+}
+#btn1{
+    width: fit-content;
+    background-color: pink;
+    color: rgb(255, 64, 93);
+    border-radius: 8px;
+    
+    
+}
+#container1{
+    color: rgb(247, 121, 140);
+    margin: 10px;
+    font-size: larger;
+}
